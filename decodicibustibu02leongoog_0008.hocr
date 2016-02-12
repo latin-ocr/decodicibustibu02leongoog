@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decodicibustibu02leongoog_0008.png"; bbox 0 0 3240 5006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 718 1016 785 1095">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 718 1016 785 1095">
+     <span class='ocr_line' id='line_1_1' title="bbox 718 1016 785 1095; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 718 1016 785 1095; x_wconf 89' lang='lat' dir='ltr'>DE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 196 1214 1321 1740">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 196 1214 1321 1740">
+     <span class='ocr_line' id='line_1_2' title="bbox 196 1214 1265 1440; baseline 0.007 -70"><span class='ocrx_word' id='word_1_2' title='bbox 196 1311 198 1314; x_wconf 85' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 242 1214 677 1375; x_wconf 78' lang='lat' dir='ltr'><strong>CODICIBUS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 721 1219 1265 1440; x_wconf 69' lang='lat' dir='ltr'>TffluLLles</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 525 1505 1321 1740; baseline 0.013 -99"><span class='ocrx_word' id='word_1_5' title='bbox 525 1518 763 1646; x_wconf 77' lang='lat' dir='ltr'><strong>CAPITA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 801 1522 971 1740; x_wconf 74' lang='lat' dir='ltr'>TRIA.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1319 1505 1321 1508; x_wconf 26' lang='lat'>⁵</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 518 2517 967 2670">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 518 2517 967 2670">
+     <span class='ocr_line' id='line_1_4' title="bbox 518 2517 967 2586; baseline 0.02 -9"><span class='ocrx_word' id='word_1_8' title='bbox 518 2517 730 2583; x_wconf 77' lang='lat' dir='ltr'><strong>ROBERTUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 754 2522 967 2586; x_wconf 77' lang='grc' dir='ltr'>[ΕΟΝΗΑΒΒ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 631 2621 822 2670; baseline 0.016 -9"><span class='ocrx_word' id='word_1_10' title='bbox 631 2667 632 2670; x_wconf 11' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_11' title='bbox 670 2621 822 2665; x_wconf 76' lang='lat' dir='ltr'>DR.P}11L.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1624 5006">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1624 5006">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1624 5006; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1624 5006; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
